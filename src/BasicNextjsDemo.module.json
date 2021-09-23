@@ -1,0 +1,24 @@
+{
+    "namespace": "BasicNextjsDemo",
+    "references": [ "InitItems" ],
+    "items": {
+        "includes": [
+            {
+                "name": "layouts",
+                "path": "/sitecore/layout/Layouts/Project/basicnextjsdemo"
+            },
+            {
+                "name": "placeholders",
+                "path": "/sitecore/layout/Placeholder Settings/Project/basicnextjsdemo"
+            },
+            {
+                "name": "renderings",
+                "path": "/sitecore/layout/Renderings/Project/basicnextjsdemo"
+            },
+            {
+                "name": "templates",
+                "path": "/sitecore/templates/Project/basicnextjsdemo"
+            }
+        ]
+    }
+}

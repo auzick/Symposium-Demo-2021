@@ -1,0 +1,33 @@
+﻿---
+ID: "902ea2f1-775b-5a05-bb88-ef015f442cee"
+Parent: "18685999-a2d8-5b26-953f-9e87731db106"
+Template: "dacab5a4-a629-5310-9a0a-639b3df42b22"
+Path: "/sitecore/content/BasicNextjsDemo/home/styleguide/Page Components/styleguide-jss-styleguide-section-7DE41A1A-24E4-5963-8206-3BB0B7D9DD69-0-Styleguide-Layout-Reuse-1"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-Layout-Reuse-1"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210920T214822Z
+    - ID: "28e534f5-7bf8-5ba4-b3d6-97bf394bd4cd"
+      Hint: heading
+      Value: Reusing Content
+    - ID: "4098beee-dccb-5b30-bc9f-0191e2dbe2da"
+      Hint: description
+      Value: <p>JSS provides powerful options to reuse content, whether it's sharing a common piece of text across pages or sketching out a site with repeating <em>lorem ipsum</em> content.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "be18d865-4c59-493f-bf07-966cb49f0212"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210920T214822Z

@@ -1,0 +1,31 @@
+﻿---
+ID: "c76bf0f9-4856-5be0-889e-f58a26fb0e18"
+Parent: "4d1c5a49-02de-54bf-9598-7a1be9274b63"
+Template: "4d1c5a49-02de-54bf-9598-7a1be9274b63"
+Path: "/sitecore/templates/Project/basicnextjsdemo/Styleguide-Layout-Tabs/__Standard Values"
+Languages:
+- Language: en
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210920T214808Z
+    - ID: "52807595-0f8f-4b20-8d2a-cb71d28c6103"
+      Hint: __Owner
+      Value: |
+        sitecore\JssImport
+    - ID: "5dd74568-4d4b-44c1-b513-0af5f4cda34f"
+      Hint: __Created by
+      Value: |
+        sitecore\JssImport
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "e11c0673-57a8-4c91-bf0b-869d4f7170e1"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210920T214808Z

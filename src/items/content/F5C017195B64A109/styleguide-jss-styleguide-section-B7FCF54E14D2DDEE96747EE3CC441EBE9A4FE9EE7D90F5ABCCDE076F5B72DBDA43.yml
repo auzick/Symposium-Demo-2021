@@ -1,0 +1,49 @@
+﻿---
+ID: "3040ee78-0a4d-5d39-a43d-06102e138269"
+Parent: "18685999-a2d8-5b26-953f-9e87731db106"
+Template: "acf7ac98-4b9f-5fc4-9c71-1e70ca327b11"
+Path: "/sitecore/content/BasicNextjsDemo/home/styleguide/Page Components/styleguide-jss-styleguide-section-B7FCF54E14D2DDEE96747EE3CC441EBE9A4FE9EE7D90F5ABCCDE076F5B72DBDA43"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-FieldUsage-Link-9"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "1efb585a-0dad-553d-b56b-af21fb5c6813"
+      Hint: externalLink
+      Value: |
+        <link text="Link to Sitecore" url="https://www.sitecore.com" linktype="external" />
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210920T214821Z
+    - ID: "28e534f5-7bf8-5ba4-b3d6-97bf394bd4cd"
+      Hint: heading
+      Value: General Link
+    - ID: "3223c59d-e85b-54a5-ab4d-2d5333d9c90f"
+      Hint: emailLink
+      Value: |
+        <link text="Send an Email" url="mailto:foo@bar.com" linktype="mailto" />
+    - ID: "4098beee-dccb-5b30-bc9f-0191e2dbe2da"
+      Hint: description
+      Value: <p>A <em>General Link</em> is a field that represents an <code>&lt;a&gt;</code> tag.</p>
+    - ID: "8763a579-fd7d-5b51-a98f-1128eacd6e92"
+      Hint: internalLink
+      Value: |
+        <link linktype="internal" id="{0D90DD7C-E2EF-5132-A442-2EB717CF5F16}" />
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4d0a54cc-35bf-4cdb-abda-cc666125fb14"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210920T214821Z
+    - ID: "e44bb259-3b93-5ae7-b9a8-d2cd0fd9eb35"
+      Hint: paramsLink
+      Value: |
+        <link target="_blank" text="Sitecore Dev Site" title="&lt;a&gt; title attribute" url="https://dev.sitecore.net" class="font-weight-bold" linktype="external" />

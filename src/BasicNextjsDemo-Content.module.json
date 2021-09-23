@@ -1,0 +1,16 @@
+{
+    "namespace": "BasicNextjsDemo-Content",
+    "references": [ "BasicNextjsDemo" ],
+    "items": {
+        "includes": [
+            {
+                "name": "content",
+                "path": "/sitecore/content/BasicNextjsDemo"
+            },
+            {
+                "name": "media",
+                "path": "/sitecore/media library/basicnextjsdemo"
+            }
+        ]
+    }
+}

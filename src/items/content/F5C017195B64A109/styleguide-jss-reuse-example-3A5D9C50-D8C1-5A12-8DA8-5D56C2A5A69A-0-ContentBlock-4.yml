@@ -1,0 +1,30 @@
+﻿---
+ID: "f648b60a-6eca-51e6-bb41-84864f95ba4f"
+Parent: "18685999-a2d8-5b26-953f-9e87731db106"
+Template: "c1db59d3-0588-507b-b2f6-5bf3b46d06ba"
+Path: "/sitecore/content/BasicNextjsDemo/home/styleguide/Page Components/styleguide-jss-reuse-example-3A5D9C50-D8C1-5A12-8DA8-5D56C2A5A69A-0-ContentBlock-4"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "ContentBlock-4"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210920T214822Z
+    - ID: "76250a43-c791-5b87-9af1-afbc11788037"
+      Hint: content
+      Value: <p>Mix and match reused and local content. Check out <code>/data/routes/styleguide/en.yml</code> to see how.</p>
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "4b2666e5-5ba4-4be5-915a-1e45801d0baa"
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210920T214823Z

@@ -1,0 +1,52 @@
+﻿---
+ID: "070f8116-2aca-50e2-ad54-d0fd8734510f"
+Parent: "18685999-a2d8-5b26-953f-9e87731db106"
+Template: "c6e5a325-66b9-560d-b42d-fce29c73f43a"
+Path: "/sitecore/content/BasicNextjsDemo/home/styleguide/Page Components/styleguide-jss-styleguide-section-B7985C8DEA10AB2C5CC77ABC90CF4126F21840592E09B2C6DB07D84D314CDCE0D4"
+Languages:
+- Language: en
+  Fields:
+  - ID: "b5e02ad9-d56f-4c41-a065-a133db87bdeb"
+    Hint: __Display name
+    Value: "Styleguide-FieldUsage-ContentList-11"
+  Versions:
+  - Version: 1
+    Fields:
+    - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
+      Hint: __Created
+      Value: 20210920T214822Z
+    - ID: "28e534f5-7bf8-5ba4-b3d6-97bf394bd4cd"
+      Hint: heading
+      Value: Content List
+    - ID: "4098beee-dccb-5b30-bc9f-0191e2dbe2da"
+      Hint: description
+      Value: |
+        <p>
+          <small>
+            Content Lists are a way to reference zero or more other content items.
+            Referenced items may be shared.
+            To reference a single content item, use an <em>Item Link</em> field.<br />
+            <strong>Note:</strong> Sitecore does not support inline editing of Content List fields. The value must be edited in Experience Editor by using the edit rendering fields button (looks like a pencil) with the whole component selected.
+          </small>
+        </p>
+        
+    - ID: "7f6642ef-22a8-51ac-85cd-a3016faf6401"
+      Hint: sharedContentList
+      Value: |
+        {8A5E49DF-86B2-52A8-867F-DE40FCDDD12A}
+        {709509E9-716F-55C7-B331-7DA0066DCA96}
+    - ID: "8cdc337e-a112-42fb-bbb4-4143751e123f"
+      Hint: __Revision
+      Value: "952e88ef-3ec6-4ca7-a317-4e3612c92ad4"
+    - ID: "9b3ddfe8-7cef-5006-bd1d-4c76985913e8"
+      Hint: localContentList
+      Value: |
+        {A88EE58A-BBEB-51E9-B3DC-25218F4850B3}
+        {0919D53C-7A21-50DE-9D74-9CC2E6518DA1}
+    - ID: "badd9cf9-53e0-4d0c-bcc0-2d784c282f6a"
+      Hint: __Updated by
+      Value: |
+        sitecore\JssImport
+    - ID: "d9cf14b1-fa16-4ba6-9288-e8a174d4d522"
+      Hint: __Updated
+      Value: 20210920T214822Z
