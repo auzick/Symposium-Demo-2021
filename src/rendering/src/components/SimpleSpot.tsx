@@ -17,7 +17,7 @@ const BasicSpot = (props: BasicSpotProps): JSX.Element => (
     >
       <div className="g-round-card__inner">
         <div className="g-round-card__content">
-          <Text tag="h2" style={{ marginLeft: "1px", marginRight: "22px" }} className="g-round-card__heading" field={props?.fields?.heading} />
+          <Text tag="h2" style={{ marginLeft: "22px", marginRight: "22px" }} className="g-round-card__heading" field={props?.fields?.heading} />
           <RichText style={{ fontSize: "1.6rem", marginLeft: "22px", marginRight: "22px" }} field={props?.fields?.bodytext} />
           <span className="g-round-card__foot">
             <Link style={{ color: "Red", marginLeft: "22px", marginBottom:"4px" }} field={props?.fields?.link}  />
