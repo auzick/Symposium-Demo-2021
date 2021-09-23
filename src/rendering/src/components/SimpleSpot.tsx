@@ -1,4 +1,4 @@
-import { Text, Field, Link, RichText, ImageField, LinkField } from '@sitecore-jss/sitecore-jss-nextjs';
+import { Text, Field, Link, RichText, LinkField } from '@sitecore-jss/sitecore-jss-nextjs';
 import { StyleguideComponentProps } from 'lib/component-props';
 
 type BasicSpotProps = StyleguideComponentProps & {
