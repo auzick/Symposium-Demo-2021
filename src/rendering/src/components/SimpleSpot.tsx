@@ -13,7 +13,7 @@ const BasicSpot = (props: BasicSpotProps): JSX.Element => (
   <div style={{ float: "left", height: "600px", marginBottom: "24px" }} className="g-round-card__wrap col-md-6 col-sm-6 col-xs-12">
     <div
       className="g-round-card "
-      style={{  border: "solid 1px black", paddingTop: "22px", paddingBottom: "22px" }}
+      style={{  border: "solid 3px black", paddingTop: "22px", paddingBottom: "22px" }}
     >
       <div className="g-round-card__inner">
         <div className="g-round-card__content">
